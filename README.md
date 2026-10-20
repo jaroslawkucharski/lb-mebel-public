@@ -28,28 +28,19 @@ WEB<strong>SITE</strong>
 
 UP<strong>DATES</strong>
 
-| Date        | What changed                                                                               |
-| ----------- | ------------------------------------------------------------------------------------------ |
-| 2026-10     | Migrated Tailwind CSS classes to v4 canonical syntax                                       |
-| 2026-10     | Optimized images: AVIF/WebP, blur placeholders, lazy loading                               |
-| 2026-10     | Refactored cookie consent: GA consent status display, manage cookies button                |
-| 2026-10     | Added SEO: hreflang, JSON-LD LocalBusiness schema, Open Graph images, buildMetadata helper |
-| **2026-10** | **Updated packages: Next.js 16, Sentry 10.29**                                             |
-| 2025-12     | Updated packages: Next.js 15.5, React 19.2, Sentry 10, next-intl 4.5                       |
-| 2025-06     | Improved page speed, added Instagram integration                                           |
-| **2025-05** | **Updated packages: Tailwind CSS v4, next-intl v4, TypeScript 5.8, React 19.1**            |
-| **2024-11** | **🚀 Released to production**                                                              |
-| 2024-11     | Fixed routing & pagination                                                                 |
-| 2024-11     | Added Google Analytics 4                                                                   |
-| 2024-11     | Added Sentry error monitoring                                                              |
-| 2024-08     | Added SEO: Open Graph, meta tags, h1 tag                                                   |
-| 2024-08     | Added cookie consent banner                                                                |
-| 2024-07     | Added projects page with pagination and project detail page                                |
-| 2024-06     | Added offer page                                                                           |
-| 2024-05     | Added footer, contact panel                                                                |
-| 2024-04     | Added home page: slider, about us, offer sections                                          |
-| 2024-04     | Added navigation, mobile menu, header & hamburger component                                |
-| **2024-04** | **Created project: Next.js app, GraphQL + Contentful configured**                          |
+| Date                                        | Version     | What changed                                                                                                                                                                                                                                                                                                 |
+| ------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2026-10                                     | `2.1.0`     | - Added SEO: hreflang, JSON-LD LocalBusiness schema, Open Graph images, buildMetadata helper <br>- Optimized images: AVIF/WebP, blur placeholders, lazy loading <br>- Refactored cookie consent: GA consent status display, manage cookies button <br>- Migrated Tailwind CSS classes to v4 canonical syntax |
+| **2026-10**                                 | **`2.0.0`** | **Updated packages: Next.js 16, Sentry 10.29**                                                                                                                                                                                                                                                               |
+| 2025-12                                     | `1.3.0`     | Updated packages: Next.js 15.5, React 19.2, Sentry 10, next-intl 4.5                                                                                                                                                                                                                                         |
+| 2025-06                                     | `1.2.0`     | - Improved page speed <br>- Added Instagram integration                                                                                                                                                                                                                                                      |
+| **2025-05**                                 | **`1.1.0`** | **Updated packages: Tailwind CSS v4, next-intl v4, TypeScript 5.8, React 19.1**                                                                                                                                                                                                                              |
+| **2024-11**                                 | **`1.0.0`** | **🚀 Released to production**                                                                                                                                                                                                                                                                                |
+| 2024-11                                     | `0.5.0`     | - Added Google Analytics 4 <br>- Added Sentry error monitoring <br>- Fixed routing & pagination                                                                                                                                                                                                              |
+| 2024-08                                     | `0.4.0`     | - Added SEO: Open Graph, meta tags, h1 tag <br>- Added cookie consent banner                                                                                                                                                                                                                                 |
+| 2024-07                                     | `0.3.0`     | Added projects page with pagination and project detail page                                                                                                                                                                                                                                                  |
+| 2024-04 <div align="center">-</div> 2024-06 | `0.2.0`     | - Added home page: slider, about us, offer sections <br>- Added navigation, mobile menu, header & hamburger component <br>- Added offer page <br>- Added footer, contact panel                                                                                                                               |
+| **2024-04**                                 | **`0.1.0`** | **Created project: Next.js app, GraphQL + Contentful configured**                                                                                                                                                                                                                                            |
 
 ##
 
